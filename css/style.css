@@ -1,7 +1,11 @@
 #hero {
-  background-image: url(../images/rishabh-dharmani-yAYhQmTXoD0-unsplash.jpg);
+  background-image: url(../images/rishabh-dharmani-yAYhQmTXoD0-unsplash.jpg); 
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   background-color: black;
+}
+
+.d-flex {
+  height: 70vh;
 }
